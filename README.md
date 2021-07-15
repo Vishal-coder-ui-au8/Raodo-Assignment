@@ -11,26 +11,26 @@ Vocab App is a mern stack web app to improve the vocabulary.
  
 # 2. Setting Up GraphQL server
 
-  Give the command in terminal
-  cd server
-  npm i
+     Give the command in terminal
+     cd server
+     npm i
   
-  Create a .env file inside server folder and provide the key values mentioned below
-  oxfordAppId=<YOUR_OXFORD_APP_ID>
-  oxfordAppKey=<YOUR_OXFORD_APP_KEY
-  mongodbUri=<YOUR_MONGODB_URI>
+     Create a .env file inside server folder and provide the key values mentioned below
+     `oxfordAppId=<YOUR_OXFORD_APP_ID>` 
+     `oxfordAppKey=<YOUR_OXFORD_APP_KEY>`
+     `mongodbUri=<YOUR_MONGODB_URI>`
   
-  Run the server
-  npm start
+     Run the server
+     npm start
   
 # 3. Setting Up Client
 
-  Give the command in terminal
-  cd client 
-  npm i
+     Give the command in terminal
+     cd client 
+     npm i
   
-  Run the client
-  npm start
+     Run the client
+     npm start
   
 # Deployed Link
   https://raodo-assignment.herokuapp.com/
