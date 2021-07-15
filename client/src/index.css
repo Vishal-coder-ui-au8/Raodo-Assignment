@@ -8,15 +8,16 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(85, 0, 85);
+    background-color: rgb(80, 1, 80);
 }
 
 .header {
     display: flex;
-    justify-content: space-between;
-    padding: 0 10px 0 20px;
-    color: white;
     height: 7vh;
+    padding: 0 10px 0 20px;
+    justify-content: space-between;
+    color: white;
+    
 }
 
 a {
