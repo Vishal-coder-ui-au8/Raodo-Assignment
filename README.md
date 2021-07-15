@@ -34,6 +34,7 @@ Vocab App is a mern stack web app to improve the vocabulary.
      npm start
   
 # Deployed Link
-  https://raodo-assignment.herokuapp.com/
+
+   https://raodo-assignment.herokuapp.com/
   
 
