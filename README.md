@@ -17,6 +17,7 @@ Vocab App is a mern stack web app to improve the vocabulary.
       npm i
   
      Create a .env file inside server folder and provide the key values mentioned below
+     
       oxfordAppId=<YOUR_OXFORD_APP_ID>
       oxfordAppKey=<YOUR_OXFORD_APP_KEY>
       mongodbUri=<YOUR_MONGODB_URI>
