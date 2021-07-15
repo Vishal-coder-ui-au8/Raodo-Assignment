@@ -6,10 +6,10 @@ Vocab App is a mern stack web app to improve the vocabulary.
 # Setup
 
 # 1. Clone the repository
+     https://github.com/Vishal-coder-ui-au8/Raodo-Assignment.git
  
  
- 
-# Setting Up GraphQL server
+# 2. Setting Up GraphQL server
 
   Give the command in terminal
   cd server
@@ -23,7 +23,7 @@ Vocab App is a mern stack web app to improve the vocabulary.
   Run the server
   npm start
   
-# Setting Up Client
+# 3. Setting Up Client
 
   Give the command in terminal
   cd client 
