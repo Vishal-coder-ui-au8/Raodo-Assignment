@@ -21,8 +21,8 @@ Vocab App is a mern stack web app to improve the vocabulary.
       oxfordAppKey=<YOUR_OXFORD_APP_KEY>
       mongodbUri=<YOUR_MONGODB_URI>
   
-     Run the server
-     npm start
+      Run the server
+      npm start
   
 # 3. Setting Up Client
 
@@ -35,6 +35,6 @@ Vocab App is a mern stack web app to improve the vocabulary.
   
 # Deployed Link
 
-   https://raodo-assignment.herokuapp.com/
+   https://raodo-assignment.herokuapp.com
   
 
