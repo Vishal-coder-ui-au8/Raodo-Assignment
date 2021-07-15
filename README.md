@@ -27,6 +27,7 @@ Vocab App is a mern stack web app to improve the vocabulary.
 # 3. Setting Up Client
 
      Give the command in terminal
+     
      cd client 
      npm i
   
